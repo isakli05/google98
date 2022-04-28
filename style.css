@@ -1,0 +1,46 @@
+.container {
+    text-align: center;
+}
+
+.logo {
+    margin: 0px;
+}
+
+.search {
+    height: 100px;
+    background-color: rgb(202, 202, 202);
+    margin-bottom: 5px;
+}
+
+.search_input {
+    width: 300px;
+    border-radius: 3px;
+}
+
+/* .search_buttons {
+    padding-top: 5px; 
+
+}*/
+
+.links1 {
+    background-color: aqua;
+    width: 40%;
+    height: 120px;
+    float: left;
+    border-right: 1px solid oldlace;
+}
+
+.links2 {
+    background-color: aqua;
+    width: 14.8%;
+    height: 120px;
+    float: left;
+    border-right: 1px solid oldlace;
+}
+
+.links3 {
+    background-color: aqua;
+    width: 45%;
+    height: 120px;
+    float: right;
+}
